@@ -1,0 +1,9 @@
+pe\edu\unmsm\servicios\MatriculaServicioImpl.class
+pe\edu\unmsm\AppConfig.class
+pe\edu\unmsm\clientes\AlumnoClienteRest.class
+pe\edu\unmsm\servicios\MatriculaServicioFeign.class
+pe\edu\unmsm\entidades\Matricula.class
+pe\edu\unmsm\Ejemplo02Application.class
+pe\edu\unmsm\entidades\Alumno.class
+pe\edu\unmsm\controladores\MatriculaController.class
+pe\edu\unmsm\servicios\IMatriculaServicio.class
